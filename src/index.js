@@ -40,7 +40,7 @@ module.exports = function toReadable (number) {
           break;
         case 18: str = 'eighteen';
           break;
-        case 19: str = 'eighteen'; //Mistake in test
+        case 19: str = 'nineteen'; //Mistake in test
           break;
       }
     }
